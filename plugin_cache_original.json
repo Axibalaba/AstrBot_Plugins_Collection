@@ -7955,4 +7955,18 @@
     "updated_at": "2025-09-16T10:52:23Z",
     "version": "v1.4.1"
   }
+  {
+  "astrbot_plugin_image_response": {
+    "display_name": "图片响应插件",
+    "desc": "用于AstrBot的插件，随机选取txt文本中的图片链接，进行下载并发送到对话。",
+    "author": "Axibalaba",
+    "repo": "https://github.com/Axibalaba/astrbot_plugin_image_response",
+    "tags": [
+      "图片",
+      "简单"
+    ],
+    "stars": 1,
+    "updated_at": "2025-11-16T02:21:41Z",
+    "version": "v1.0.0"
+  },
 }
